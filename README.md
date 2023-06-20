@@ -1,2 +1,2 @@
 # html-portfolio
-a basic website totally baesd on html
+a basic website totally based on html
